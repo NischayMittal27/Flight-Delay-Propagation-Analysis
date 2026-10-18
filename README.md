@@ -3,7 +3,7 @@
 
 **Analyzing 7 million+ U.S. flight records from 2025 to uncover delay patterns, investigate operational causes, and understand how delays on previous flights relate to subsequent flight performance.**
 
-[📊 Power BI Dashboard](dashboard/Flight_Delay_Propagation_Analytics.pbix) · [📄 Project Report](report/PROJECT_REPORT.md) · [🗃️ SQL Analytical Views](sql/powerbi_views.sql)
+[📊 Power BI Dashboard](dashboard/Flight_Delay_Propagation_Analytics.pbix) · [📄 Project Report](report/Delay_Propagation_Report.pdf) · [🗃️ SQL Analytical Views](sql/powerbi_views.sql)
 
 ---
 
